@@ -1,5 +1,6 @@
 # FLAC-Tag-Editor:
 
+</br>
 
 ```ruby
 Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
@@ -9,7 +10,7 @@ Last Update : 08/2025
 License     : Freeware
 ```
 
-</br>
+</br></br>
 
 ![logo130](https://github.com/user-attachments/assets/f3c762cd-ed2a-4c04-a5e9-4bed9a0d8b8c)
 
