@@ -9,17 +9,19 @@ Last Update : 08/2025
 License     : Freeware
 ```
 
+</br>
 
 ![logo130](https://github.com/user-attachments/assets/f3c762cd-ed2a-4c04-a5e9-4bed9a0d8b8c)
 
-
+</br>
 
 FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. This is similar to how Zip works, except with FLAC you will get much better compression because it is designed specifically for audio, and you can play back compressed FLAC files in your favorite player (or your car or home stereo, see [supported devices](https://xiph.org/flac/links.html#hardware)) just like you would an MP3 file.
 
+</br>
 
 ![FLAC Tag Editor](https://github.com/user-attachments/assets/353632d6-23fc-4708-9dfb-085cd4de5ce4)
 
-
+</br>
 
 FLAC stands out as the fastest and most widely [supported lossless audio codec](https://wiki.hydrogenaudio.org/index.php?title=Lossless_comparison), and the only one that at once is non-proprietary, is unencumbered by patents, has an open-source reference implementation, has a well documented format and API, and has several other independent implementations.
 
